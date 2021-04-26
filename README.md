@@ -21,5 +21,5 @@ apple M1仕様でのみテスト済み
 `yarn start`
 
 ## License 
-### This projected was started with [React Electron Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 
+### 🙏🙏This projected was started with [React Electron Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 🙏🙏
 <https://github.com/electron-react-boilerplate/electron-react-boilerplate>
