@@ -4,8 +4,11 @@
 
 apple M1仕様でのみテスト済み
 
+#インストール
 `yarn`
 
+#ビルド
 `yarn packge`
 
-or `yarn start`
+#デバッグ実行
+`yarn start`
